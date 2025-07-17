@@ -1,0 +1,46 @@
+div{
+    width: 600px;
+    border: 2px solid green;
+    margin: 0 auto;
+}
+img{
+    width: 100%;
+}
+p{
+    font-size: 15px;
+    padding: 2em;
+}
+
+/* @media (min-width:700px){
+body {
+    background-color: yellow;
+}
+
+img{
+    width: 50%;
+}
+p{
+    font-size: 30px;
+}
+} */
+ @media(max-width:650px){
+    body{
+        background-color: aqua;
+    }
+    img{
+        width:50%;
+    }
+p{
+    font-size: 30px;
+}
+ }
+
+ /* @media(min-width:450px) and (max-width:1000px){
+body{
+    background-color: powderblue;
+ }
+ img{
+    width: 85%;
+ }
+ } */
+ 

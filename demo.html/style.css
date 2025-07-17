@@ -1,0 +1,17 @@
+body{
+    background-color: yellow;
+    width: 1000px;
+    margin: 0 auto;
+}
+#div1{
+    background-color: lightblue;
+    width: 50%;
+}
+#div2{
+    width: 50%;
+}
+img{
+    width: 100%;
+}
+
+/* first parent kula iruka contained the children pakaku. then div1 vathu main body pakaku.div2 vathu div1 pakaku because div2 oda parent vathu div1, div2 edhukula iruku div1 kula iruku so atha.img oda parent vathu div2 so atha pakaku...  */
